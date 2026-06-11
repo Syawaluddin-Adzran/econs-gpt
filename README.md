@@ -163,16 +163,6 @@ econs-gpt/
 
 ---
 
-## 🌐 Deployment
-
-- Cloud version: Visualisation + Forecast only
-- AI features require local Ollama setup
-
-👉 Streamlit Cloud:
-https://econs-gpt.streamlit.app
-
----
-
 ## 📚 Data Source
 
 - World Bank Open Data API (2010–2024)
