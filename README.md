@@ -12,8 +12,6 @@ EconsGPT brings together **three portfolio projects** into a single, polished ap
 - **AI Assistant** – text-to-SQL, economic Q&A, and country reports using a local LLM (Ollama)
 - **Forecast** – machine learning predictions for GDP, inflation, unemployment, recession risk, and clustering
 
-All powered by **real-world World Bank data (2010–2024)** and designed for both local and cloud deployment.
-
 ---
 
 ## 📦 Data & Model Sources
