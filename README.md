@@ -2,10 +2,6 @@
 
 > **Economic data visualisation + AI assistant + machine learning forecasts – unified in one Streamlit dashboard.**
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Cloud-blue?logo=streamlit)](https://econs-gpt.streamlit.app) *(live demo without AI)*  
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ---
 
 ## 🎯 What is EconsGPT?
@@ -17,6 +13,17 @@ EconsGPT brings together **three portfolio projects** into a single, polished ap
 - **Forecast** – machine learning predictions for GDP, inflation, unemployment, recession risk, and clustering
 
 All powered by **real-world World Bank data (2010–2024)** and designed for both local and cloud deployment.
+
+---
+
+## 📦 Data & Model Sources
+
+This repository consolidates work from three previous projects:
+- **`economic-analysis`** – provides the SQLite database (`economics.db`) and AI assistant logic.
+- **`economic-machine`** – supplies the pre‑processed feature CSV and all trained ML models (`.pkl` files).
+- **`economics-dashboard`** – contributes the visualisation components and chart designs.
+
+All data originates from the **World Bank Open Data API** (2010–2024). The models are pre‑trained and included for immediate use; no re‑training is required.
 
 ---
 
